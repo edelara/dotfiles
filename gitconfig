@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = elena_delara@hotmail.com
+	name = Elena de Lara
